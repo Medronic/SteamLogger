@@ -1,0 +1,23 @@
+{
+  "name": "steam",
+  "version": "0.0.1",
+  "description": "api",
+  "main": "bot.js",
+  "scripts": {
+    "test": "bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botgram": "^2.2.0",
+    "figlet": "^1.5.2",
+    "mysql": "^2.18.1",
+    "node-notifier": "^9.0.1",
+    "request": "^2.88.2",
+    "sound-play": "^1.1.0",
+    "sqlite3": "^5.0.8",
+    "steam-totp": "^2.1.1",
+    "steam-user": "^4.19.3",
+    "steamcommunity": "^3.42.0"
+  }
+}
