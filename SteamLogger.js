@@ -1,5 +1,3 @@
-var config = require('./config');
-
 const SteamUser = require("steam-user");
 const SteamTotp = require("steam-totp");
 const SteamCommunity = require('steamcommunity');
@@ -52,7 +50,7 @@ function handleDisconnect(connection) {
 
     console.log('Re-connecting lost connection: ' + err.stack);
 
-    connection = mysql.createConnection(connection.config);
+    connection = mysql.createConnection(connection);
     handleDisconnect(connection);
     connection.connect();
   });
