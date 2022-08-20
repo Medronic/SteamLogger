@@ -2,6 +2,8 @@
 ### Start saving your steam message history with Steam Logger.
 
 ![image](https://user-images.githubusercontent.com/38893379/185757691-26f2f24d-7b4b-4a08-8e18-fa407c68eeba.png)
+![image](https://user-images.githubusercontent.com/38893379/185759371-30a4f7a8-beda-455f-a63d-f5da9c16b631.png)
+
 ---
 
 # Requirements
